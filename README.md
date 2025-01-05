@@ -17,6 +17,8 @@
 
 - 📫 How to reach me **taekyoung78@gmail.com**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=taeeek7&label=Profile%20views&color=0e75b6&style=flat" alt="taeeek7" /> </p>
+
 <br />
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,17 +26,13 @@
 
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=taeeek7&label=Profile%20views&color=0e75b6&style=flat" alt="taeeek7" /> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taeeek7&show_icons=true&theme=gotham&locale=en&layout=compact" alt="taeeek7" /></p>
 
-<br />
+<!--- <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taeeek7&show_icons=true&theme=gotham&locale=en&layout=compact" alt="taeeek7" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taeeek7&show_icons=true&theme=gotham&locale=en" alt="taeeek7" /></p>
+--->
 
-<br />
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=taeeek7&show_icons=true&theme=gotham&locale=en" alt="taeeek7" /></p>
-
-<br />
 
 <!---
 taeeek7/taeeek7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
