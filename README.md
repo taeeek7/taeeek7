@@ -1,11 +1,5 @@
 ### About me
 
-<a href="https://linkedin.com/in/taeeek7" target="_blank">
-  <img align="left" alt="dasom's LinkedIN" width="22px" src="https://cdn.simpleicons.org/linkedin" />
-</a>
-
-<br />
-
 <h1 align="left">Hi, I’m austin Lee</h1>
 <h3 align="left">I develop functions that support platform service operation and solve problems using data and technology!</h3>
 
@@ -16,6 +10,8 @@
 - 🧑🏻‍💻 All of my projects are available at [Notion](https://taegyeong.notion.site/RPA-1980e9bdc7044c08b364d83b8663e47d?pvs=4)
 
 - 📫 How to reach me **taekyoung78@gmail.com**
+
+- 📑 Profile [Linkedin](https://linkedin.com/in/taeeek7)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taeeek7&label=Profile%20views&color=0e75b6&style=flat" alt="taeeek7" /> </p>
 
