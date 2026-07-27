@@ -6,21 +6,29 @@ I build and run the data platform for a B2B hospitality operations service — a
 
 ---
 
-🔧 **Engineering** — 117 Airflow DAGs, Kafka CDC, a ~3M events/day log lakehouse, 20 services on K8s via ArgoCD
+🔧 **Engineering** — CDC-based streaming pipelines, an ETL platform on Airflow, a log lakehouse for long-term analysis, and GitOps delivery on Kubernetes
 
-📐 **Product** — UX writing standards + 10,000 localized strings, GA4 event design (hypothesis → metric → event), working prototypes instead of text specs
+📐 **Product** — UX writing standards and localization, GA4 event design (hypothesis → metric → event), working prototypes instead of text specs
 
 🤖 **AI** — Keeper Agent, an internal MCP knowledge server the dev team uses daily
 
 ---
 
-`Python` `Kotlin` `TypeScript` `Airflow` `Kafka` `BigQuery` `Kubernetes` `MCP`
+**Languages** `Python` `Kotlin` `TypeScript` `SQL` `JavaScript`
+
+**Data** `Airflow` `Kafka Connect` `Debezium` `BigQuery` `GCS` `Parquet` `MySQL` `PostgreSQL` `Redis` `SQS`
+
+**Backend** `FastAPI` `Spring Boot` `React` `Slack Bolt`
+
+**Infra** `Kubernetes` `ArgoCD` `Helm` `Docker` `GitHub Actions` `SOPS` `NCloud` `AWS`
+
+**AI** `MCP` `Claude` `Gemini` `LangChain` `ChromaDB` `Qdrant`
+
+**Analytics** `GA4` `Redash` `Lokalise`
 
 ---
 
-> Design the failure mode: automation should degrade to *less precise*, never to *silently missing*.
-
-📫 [LinkedIn](https://linkedin.com/in/taeeek7) · [Blog](https://taeeek7.github.io) · [Notion](https://taegyeong.notion.site/RPA-1980e9bdc7044c08b364d83b8663e47d?pvs=4) · taekyoung78@gmail.com
+📫 [LinkedIn](https://linkedin.com/in/taeeek7) · [Blog](https://taeeek7.github.io) · taekyoung78@gmail.com
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=taeeek7&label=Profile%20views&color=0e75b6&style=flat" alt="taeeek7" /></p>
 
