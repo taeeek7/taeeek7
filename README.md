@@ -1,27 +1,28 @@
-### About me
+# Hi, I'm Austin Lee 👋
 
-<h1 align="left">Hi, I’m austin Lee</h1>
-<h3 align="left">I develop functions that support platform service operation and solve problems using data and technology!</h3>
+**Data Engineer** who also writes the spec.
 
-<br />
+I build and run the data platform for a B2B hospitality operations service — and increasingly define what gets built on top of it.
 
-- 💼 My Job Position is RPA Developer
+---
 
-- 🧑🏻‍💻 All of my projects are available at [Notion](https://taegyeong.notion.site/RPA-1980e9bdc7044c08b364d83b8663e47d?pvs=4)
+🔧 **Engineering** — 117 Airflow DAGs, Kafka CDC, a ~3M events/day log lakehouse, 20 services on K8s via ArgoCD
 
-- 📫 How to reach me **taekyoung78@gmail.com**
+📐 **Product** — UX writing standards + 10,000 localized strings, GA4 event design (hypothesis → metric → event), working prototypes instead of text specs
 
-- 📑 Profile [Linkedin](https://linkedin.com/in/taeeek7)
+🤖 **AI** — Keeper Agent, an internal MCP knowledge server the dev team uses daily
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=taeeek7&label=Profile%20views&color=0e75b6&style=flat" alt="taeeek7" /> </p>
+---
 
-<br />
+`Python` `Kotlin` `TypeScript` `Airflow` `Kafka` `BigQuery` `Kubernetes` `MCP`
 
-<!--- <br />
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taeeek7&show_icons=true&theme=gotham&locale=en" alt="taeeek7" /></p>
---->
+> Design the failure mode: automation should degrade to *less precise*, never to *silently missing*.
 
+📫 [LinkedIn](https://linkedin.com/in/taeeek7) · [Blog](https://taeeek7.github.io) · [Notion](https://taegyeong.notion.site/RPA-1980e9bdc7044c08b364d83b8663e47d?pvs=4) · taekyoung78@gmail.com
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=taeeek7&label=Profile%20views&color=0e75b6&style=flat" alt="taeeek7" /></p>
 
 <!---
 taeeek7/taeeek7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
